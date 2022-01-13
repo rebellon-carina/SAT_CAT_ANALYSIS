@@ -6,7 +6,7 @@
 
 An increasing number of colleges and universities are adapting to  ACT/SAT-Optional Testing Policies (https://www.fairtest.org/university/optional) , an all time high of more than 1800 schools  or more than 75% of the four-year institutions in the United States - are either test optional or test blind this year (https://www.fairtest.org/sites/default/files/Optional-Growth-Chronology.pdf). 
 
-This project aims to analyse if the new policies have any significant impact in the particpation rates, we will be observing over two recent years of data, particularly 2020-2021.
+This project aims to analyse if the new policies have any significant impact in the participation rates, we will be observing over two recent years of data, particularly 2020-2021.
 
 This study is for the College Board, to understand the participation rates of states by region if there is any diminishing trend that they should be concerned of.
 
@@ -103,7 +103,7 @@ The College Board should mitigate further decline as this will have significant 
 
 They should maintain the strong commitment of states  with high parcipation rates, (e.g. in ACT, 5 states have 100% participation rate in 2020 and 2021 {'Kentucky', 'Mississippi', 'Alabama', 'Tennessee', 'Nevada'}), what is the motivation behind and how this helps colleges and universities and also students to achieve their goals, and probably this can be applied in other states to encourage higher participation rates.  It will also help if College Board will publish more studies and research on how the standard test help to measure  college readiness of each students.
 
-More efforts should focus in regions that have significat decrease (West Region for ACT and Northeast for SAT). We should also look at specific states with -30% decline in participation rates from 2020 to 2021, probably have some  policies to provide more assistance or discounts in short term to boost  the participation rates.
+More efforts should focus in regions that have significant decrease (West Region for ACT and Northeast for SAT). We should also look at specific states with -30% decline in participation rates from 2020 to 2021, probably have some  policies to provide more assistance or subsidies to boost  the participation rates.
 
     - ACT
         - Oklahoma, South (-42 %) 
